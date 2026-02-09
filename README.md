@@ -49,23 +49,22 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshya0505&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya0505&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshya0505&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya0505&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya0505&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 🏆 **Achievements & Activity**
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshya0505&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshya0505&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer" />
